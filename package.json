@@ -1,0 +1,18 @@
+{
+  "name": "frount-ui",
+  "version": "1.0.0",
+  "description": "Example Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Karthik Patnaik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "jsdom": "^20.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
